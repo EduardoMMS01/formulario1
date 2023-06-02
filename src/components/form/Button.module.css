@@ -1,8 +1,15 @@
 .buttonContainer {
-    border: 1px solid black;
+    border: 1px solid #262626;
     outline: none;
-    background-color: #efefef;
-    padding: 5px;
-    margin: 5px 0px;
+    background-color: #E3E9E6;
+    padding: 5px 20px;
     box-shadow: 1px 1px 1px;
+    margin-top: 10px;
+}
+
+.buttonContainer:hover {
+    background-color: #262626;
+    color: #E3E9E6;
+    transition: 0.3s;
+    cursor: pointer;
 }

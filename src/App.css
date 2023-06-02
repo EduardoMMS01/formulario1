@@ -1,3 +1,11 @@
 html {
-    background-color: #efefef;
+    /* background-image: radial-gradient(rgba(227, 233, 230, 1) 0%, transparent 10%, rgba(38, 38, 38, 1) 100%); */
+    background-image: url("https://picsum.photos/id/29/1920/1281");
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 98vh;
 }
+
+/* 22 */
+/* 29 */
